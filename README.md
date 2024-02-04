@@ -1,4 +1,3 @@
-[@keyvanarasteh] (https://github.com/keyvanarasteh)
 ![Ekran görüntüsü 2024-02-03 205341](https://github.com/ceydacendik/e-messenger/assets/115390650/f0bb33e7-fe5e-4802-b198-8640db7fcb17)
 ![Ekran görüntüsü 2024-02-03 205407](https://github.com/ceydacendik/e-messenger/assets/115390650/917c6a5b-a359-4a5f-90ae-0ede7e09fcb3)
 ![Ekran görüntüsü 2024-02-03 205429](https://github.com/ceydacendik/e-messenger/assets/115390650/f8801cb9-9bad-41c0-8027-50edccfc93a8)
